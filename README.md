@@ -18,7 +18,7 @@ to understand platform for the users.
 Hardware Requirements : 
 
 1) RAM – 3GB OR MORE 
-2 ) Processor – INTEL CORE i3
+2) Processor – INTEL CORE i3
 
 Software Requirements :
 
